@@ -70,5 +70,21 @@ This case study proposes product features to improve unit economics while mainta
 
 ---
 
-## 📂 Folder Structure
+
+---
+
+## 📌 Author
+
+**Omkar Kabugade**  
+Product Manager | Growth Strategy | Quick Commerce  
+📧 omkabugade@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/omkar-kabugade-306460199/)  
+🔗 [Portfolio](https://omkark3030.github.io/portfolio/)
+
+---
+
+## 📃 License
+
+This document is shared for educational and reference purposes only. For commercial use or implementation, please contact the author.
+
 
